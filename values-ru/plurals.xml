@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_explorer_bytes">
+		<item quantity="other">%1$d байт</item>
+        <item quantity="one">%1$d байт</item>
+        <item quantity="few">%1$d байта</item>
+        <item quantity="many">%1$d байтов</item>
+    </plurals>
+    <plurals name="activity_explorer_folder">
+        <item quantity="other">%1$d элементов</item>
+        <item quantity="one">%1$d элемент</item>
+        <item quantity="few">%1$d элемента</item>
+        <item quantity="many">%1$d элементов</item>		
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="service_transfer_server_transferring_text">
+        <item quantity="other">%1$d запущенных передач</item>
+        <item quantity="one">%1$d запущенная передача</item>
+        <item quantity="few">%1$d запущенные передачи</item>
+        <item quantity="many">%1$d запущенных передач</item>		
+    </plurals>
+</resources>

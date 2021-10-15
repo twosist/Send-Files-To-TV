@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/main" android:paddingBottom="@dimen/appIntroBottomBarHeight" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/fragment_intro_content" />
+    <TextView android:textSize="18.0sp" android:textColor="@color/text1" android:id="@id/textView" android:padding="@dimen/text_30" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Посетить http://sendfilestotv.app" android:textAlignment="center" />
+</LinearLayout>

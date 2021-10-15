@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ВЫКЛ</string>
+    <string name="abc_capital_on">ВКЛ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Введите запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="about">О приложении</string>
+    <string name="activity_about">О приложении</string>
+    <string name="activity_about_last_updated">Последнее обновление:</string>
+    <string name="activity_about_license">"Авторское право (c) 2018 Yablio
+UI/UX-дизайн Уильям Грондин
+Разработка Уильям Грондин
+
+ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ ​​ГАРАНТИЯМИ КОММЕРЧЕСКОЙ ЦЕННОСТИ, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И НЕНАРУШЕНИЯ. НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ АВТОРЫ ИЛИ АВТОРСКИЕ ДЕРЖАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ ПРЕТЕНЗИИ, УБЫТКИ ИЛИ ДРУГИЕ ОТВЕТСТВЕННОСТИ, КАКИЕ-ЛИБО ДЕЙСТВИЯ КОНТРАКТА, ДЕЙСТВИЯ ИЛИ ДРУГИХ, ВОЗНИКАЮЩИХ ИЗ ВЫХОДА ИЛИ В СВЯЗИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ ИЛИ ИСПОЛЬЗОВАНИЕМ ИЛИ ДРУГИМИ ДЕЛАМИ В ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ.
+ 
+ Спасибо Натану Осману за его открытый исходный код mDns
+ Спасобо Владимиру aka 2Sist за перевод на русский язык"</string>
+    <string name="activity_about_subtitle">Обменивайтесь файлами между телевизором и смартфоном</string>
+    <string name="activity_about_version">Версия:</string>
+    <string name="activity_donate">Пожертвование</string>
+    <string name="activity_explorer">Передать</string>
+    <string name="activity_explorer_error">"Невозможно открыть каталог: 
+%1$s" </string>
+    <string name="activity_explorer_gb">%1$d Гб</string>
+    <string name="activity_explorer_hint">Длительное нажатие для отправки нескольких элементов</string>
+    <string name="activity_explorer_internal">Внутреннее хранилище</string>
+    <string name="activity_explorer_kb">%1$d Кб</string>
+    <string name="activity_explorer_mb">%1$d Мб</string>
+    <string name="activity_explorer_removable">Съемное хранилище (%1$s)</string>
+    <string name="activity_intro_desktop_button">Посетить сайт</string>
+    <string name="activity_intro_desktop_description">Send Files To TV также работает с программой для ПК, которое доступно для Windows, macOS и Linux.</string>
+    <string name="activity_intro_desktop_title">Программа для ПК</string>
+    <string name="activity_intro_intro_description">Чтобы использовать SFTTV в своей локальной сети, вам необходимо установить приложение Android на телевизор и на мобильный телефон или на каждое устройство, которое вы хотите использовать для передачи файлов.</string>
+    <string name="activity_intro_intro_title">Вступление</string>
+    <string name="activity_intro_perms_description">Чтобы отправлять и получать файлы, приложению необходимо разрешение на чтение и запись файлов на вашем устройстве.</string>
+    <string name="activity_intro_perms_title">Разрешение</string>
+    <string name="activity_intro_share_description">Отправляйте файлы с помощью Send File To TV из других приложений, таких как Галерея, Документы Google и Google Фото.</string>
+    <string name="activity_intro_share_title">Отправка файлов</string>
+    <string name="activity_settings">Настройки</string>
+    <string name="activity_settings_category_appearance">Вид</string>
+    <string name="activity_settings_category_general">Основные</string>
+    <string name="activity_settings_category_notifications">Уведомления</string>
+    <string name="activity_settings_darkTheme">Темная тема</string>
+    <string name="activity_settings_darkTheme_summary">Включите альтернативную темную тему вместо стандартной светлой темы</string>
+    <string name="activity_settings_pref_behavior_boot">Запускать при запуске</string>
+    <string name="activity_settings_pref_behavior_boot_summary">Запускать Send Files To TV при запуске Android</string>
+    <string name="activity_settings_pref_behavior_overwrite">Перезаписать</string>
+    <string name="activity_settings_pref_behavior_overwrite_summary">Заменить существующие файлы с тем же именем</string>
+    <string name="activity_settings_pref_behavior_receive">Получать передачи</string>
+    <string name="activity_settings_pref_behavior_receive_summary">Принимать входящие передачи с других устройств </string>
+    <string name="activity_settings_pref_device_name">Название устройства</string>
+    <string name="activity_settings_pref_notification_sound">Звук уведомления</string>
+    <string name="activity_settings_pref_notification_sound_summary">Воспроизвести звук после завершения передачи</string>
+    <string name="activity_settings_pref_transfer_directory">Каталог передачи</string>
+    <string name="activity_share">Передать с помощью Send Files To TV</string>
+    <string name="activity_share_intent">Send Files To TV не может отправлять данные, полученные из стороннего приложения.</string>
+    <string name="activity_share_label">Выберите устройство из списка ниже, чтобы получить файлы: </string>
+    <string name="activity_share_permissions">Send Files To TV не может передавать данные без разрешения на доступ к хранилищу.</string>
+    <string name="activity_storage">Каталог передачи</string>
+    <string name="activity_transfer_empty_text">Нет запущенных передач</string>
+    <string name="activity_transfer_navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="activity_transfer_navigation_drawer_open">Открыть панель навигации</string>
+    <string name="adapter_transfer_connecting">Подключение…</string>
+    <string name="adapter_transfer_failed">Ошибка: %1$s</string>
+    <string name="adapter_transfer_retry">Повтор</string>
+    <string name="adapter_transfer_stop">Остановить</string>
+    <string name="adapter_transfer_succeeded">Успешно</string>
+    <string name="adapter_transfer_transferring">Передача: %1$d%%</string>
+    <string name="adapter_transfer_unknown">неизвестно</string>
+    <string name="app_intro_done_button">ГОТОВО</string>
+    <string name="app_intro_skip_button">ПРОПУСТИТЬ</string>
+    <string name="back">Назад</string>
+    <string name="back_exit">Нажмите еще раз, чтобы выйти</string>
+    <string name="cache_sdcard">SDCARD Кеш</string>
+    <string name="cancel">Отмена</string>
+    <string name="channel_notification_name">Завершение передачи</string>
+    <string name="channel_service_name">Служба передачи</string>
+    <string name="channel_transfer_name">Текущие передачи</string>
+    <string name="character_counter_content_description">Введено символов %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов %1$d из %2$d</string>
+    <string name="chip_text">Чип текст</string>
+    <string name="choose_action">Выбрать действие</string>
+    <string name="choose_app">Выберите приложение для открытия</string>
+    <string name="choose_directory">Выбрать</string>
+    <string name="clear">Очистить</string>
+    <string name="clear_text_end_icon_content_description">Очистить текст</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="copyright">Авторские права © 2019 Yablio</string>
+    <string name="current_directory">Когда вы передаете файл на это устройство, он сохраняется в этом каталоге:</string>
+    <string name="delete_file">Удалить файл</string>
+    <string name="delete_list">Удалить из списка</string>
+    <string name="dialog_directory_message">Нажмите на имя каталога, чтобы открыть его. Нажмите и удерживайте для выбора.</string>
+    <string name="dialog_directory_select">Выбрать</string>
+    <string name="donate">"Привет, я Яблио, я независимый разработчик.
+ Я разрабатываю приложения и игры для Android TV и мобильных устройств. Я хочу продолжать разрабатывать приложения на постоянной основе и выпускать множество приложений на этих платформах, особенно для пользователей Android TV, чтобы помочь сообществу пользоваться полезными инструментами и развлекательными приложениями на телевизоре.
+ 
+ Чтобы воплотить это в реальность, нужны деньги. Уже потрачены сотни часов, и сколько бы я ни старался, я не зарабатываю достаточно доходов от рекламы, чтобы продолжать платить столько, сколько я должен.
+ 
+ Это особенно касается программы для передачи фалов с компьютера на ТВ. Если вы хотите помочь мне или вам просто нравится то, что я предлагаю, пожалуйста, сделайте пожертвование. 
+ Если вы не можете сделать пожертвование, возможно Вы можете просмотреть приложение или поделиться им в социальной сети!"</string>
+    <string name="donate_button">Поддержка</string>
+    <string name="donate_canceled">Ваш платеж был отменен</string>
+    <string name="donate_error">Произошла ошибка с вашим платежом</string>
+    <string name="donate_incite_message">"Привет, я разработчик. Я хочу поговорить с вами о пожертвовании. 
+ 
+Не волнуйтесь, это займет несколько секунд, а это сообщение появляется редко."</string>
+    <string name="donate_incite_title">Мне нужна ваша помощь!</string>
+    <string name="donate_maybe_later">Может быть позже</string>
+    <string name="donate_review">Обзор</string>
+    <string name="donate_share">Поделиться</string>
+    <string name="donate_thank">Большое спасибо за ваш вклад!</string>
+    <string name="download_sdcard">SDCARD Загрузки</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string name="explorer">Выбрать файл</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string name="external_cache">Внешний кеш</string>
+    <string name="external_media">Внешний носитель</string>
+    <string name="filter">ФИЛЬТР</string>
+    <string name="from">Из</string>
+    <string name="icon_content_description">Значок диалога</string>
+    <string name="internal_cache">SDCARD внутренний кеш</string>
+    <string name="internal_media">SDCARD внутренний носитель</string>
+    <string name="item_view_role_description">Закладка</string>
+    <string name="leave_app">"Если вы закроете приложение Send files to TV, ваши файлы не будут потеряны.
+Используйте свой любимый файловый менеджер (напр.: FX Explorer)
+ и перейдите в этот каталог, чтобы восстановить файлы."</string>
+    <string name="library_appintro_author">Паоло Ротоло</string>
+    <string name="library_appintro_libraryDescription">AppIntro - это библиотека для создания крутых заставок в ваших Android-приложениях.</string>
+    <string name="material_slider_range_end">Конец диапазона,</string>
+    <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="menu_explorer_actions_send">Отправить</string>
+    <string name="menu_explorer_options_show_hidden">Показать скрытые элементы</string>
+    <string name="menu_transfer_item_about">О приложении</string>
+    <string name="menu_transfer_item_exit">Выход</string>
+    <string name="menu_transfer_item_intro">Вступление</string>
+    <string name="menu_transfer_item_report">Сообщить об ошибке</string>
+    <string name="menu_transfer_item_send">Передать</string>
+    <string name="menu_transfer_item_settings">Настройки</string>
+    <string name="menu_transfer_subtitle">Устройство: %1$s</string>
+    <string name="menu_transfer_title">Отправить файл на ТВ</string>
+    <string name="more_about">Смотреть дополнительную информацию о приложении</string>
+    <string name="movies_sdcard">SDCARD Фильмы</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Более% 1 $ d новых уведомлений</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_selection">Текущий выбор:% 1 $ s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец дней: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недопустимый формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Использование: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Неверный диапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
+    <string name="mtrl_picker_out_of_range">Вне допустимого диапазона:% 1 $ s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - Дата окончания</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала - Дата окончания </string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим ввода календаря</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы переключиться на выбор дня</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы переключиться на выбор года </string>
+    <string name="multiple_files">МУЛЬТИ</string>
+    <string name="next">Далее</string>
+    <string name="no_app_type">Неизвестный тип файла. Приложения для открытия не найдено.</string>
+    <string name="no_product">"Нет доступных продуктов. 
+	
+Посетите https://sendfilestotv.app"</string>
+    <string name="no_purchase">Нет доступа к списку пожертвований. 
+Пожалуйста, проверьте ваше интернет-соединение или на вашем устройстве есть защита от покупок в приложении.</string>
+    <string name="offline_notification_text">Чтобы открыть его, нажмите на уведомление.</string>
+    <string name="offline_notification_title">Вы хотели посмотреть объявление, когда были офлайн</string>
+    <string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда появится подключение к Интернету.</string>
+    <string name="offline_opt_in_decline">Нет, спасибо</string>
+    <string name="offline_opt_in_message">Когда вы подключитесь к Интернету, мы отправим вам уведомление со ссылкой на сайт рекламодателя.</string>
+    <string name="offline_opt_in_title">Посмотрите объявление, когда будете в Сети</string>
+    <string name="open">Открыть</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="pending_purchase">Ваш платеж все еще ожидает подтверждения. Пожалуйста, проверьте в ближайшее время.</string>
+    <string name="permission_denied">"❌ В доступе отказано. Попробуйте другой каталог или проверьте разрешения для своего приложения или попробуйте переформатировать хранилище. 
+ Некоторые устройства Android TV не позволяют записывать данные на внешнее хранилище."</string>
+    <string name="permission_granted">✅ Разрешение предоставлено. Каталог доступен для записи</string>
+    <string name="permissions_toast">Send Files To TV требуется разрешение на чтение и запись файлов на вашем устройстве Android.</string>
+    <string name="quit">Выход</string>
+    <string name="receive">Получить</string>
+    <string name="restore_directory">Восстановить каталог по умолчанию</string>
+    <string name="s1">Сохранить изображение</string>
+    <string name="s2">Разрешить объявлению сохранить изображение в галерее?</string>
+    <string name="s3">Разрешить</string>
+    <string name="s4">Отклонить</string>
+    <string name="s5">Создать мероприятие</string>
+    <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
+    <string name="s7">Тестовое объявление</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="select_directory">Изменить каталог передачи</string>
+    <string name="select_drive">Изменить хранилище</string>
+    <string name="send">Отправить</string>
+    <string name="service_transfer_action_retry">Повтор</string>
+    <string name="service_transfer_action_stop">Остановить</string>
+    <string name="service_transfer_action_stop_listening">ОСТАНОВИТЬ ПРОСЛУШИВАНИЕ</string>
+    <string name="service_transfer_server_listening_text">Прослушивание входящих передач</string>
+    <string name="service_transfer_server_title">Сервис Send Files To TV</string>
+    <string name="service_transfer_status_connecting">Подключение к %1$s…</string>
+    <string name="service_transfer_status_error">Не удалось передать %2$s с помощью %1$s</string>
+    <string name="service_transfer_status_receiving">Получение от %1$s</string>
+    <string name="service_transfer_status_sending">Отправка элементов на %1$s…</string>
+    <string name="service_transfer_status_success">Передача с помощью %1$s завершена</string>
+    <string name="service_transfer_title">Передача Send Files To TV</string>
+    <string name="service_transfer_unknown_device">[неизвестно]</string>
+    <string name="settings">Настройки</string>
+    <string name="show_only_file">Показать только файл, содержащий это слово:</string>
+    <string name="stop">Остановить</string>
+    <string name="to">В</string>
+    <string name="transfer_dir_default">Не доступен для записи. Каталог передачи изменен на путь по умолчанию.</string>
+    <string name="unknown_source_app">"В целях безопасности Android не позволяет вашему телефону/Smart TV устанавливать неизвестные приложения из любого приложения, кроме Google Play Store.
+Вы должны дать разрешение на установку приложений из неизвестных источников в настройках вашей системы"</string>
+    <string name="unknown_source_title">Безопасность</string>
+    <string name="welcome_message">"Спасибо всем за вашу поддержку.
+Это согревает мое сердце. 
+Есть новая версия SFTTV: 
+
+ - Исправлено открытие APK-файла в некоторых системах Android
+ - Возможность выбора более настраиваемый каталог для переноса на панели настроек
+ - Возможность выбрать внешнее USB-хранилище в качестве каталога для переноса
+ - Исправлена  безопасность ошибки Если у вас возникнут проблемы с этой новой версией, свяжитесь со мной по адресу beyable.io@gmail.com"</string>
+</resources>
